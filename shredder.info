@@ -1,0 +1,6 @@
+name = Data Shredder
+description = Makes text-data in fields unreadable.
+core = 7.x
+dependencies[] = ctools
+files[] = shredder.module
+
